@@ -1,4 +1,4 @@
-import logo from "./Naphtallogo.png";
+import logo from "./GloboLogo.png";
 
 const Header = ({ subtitle }) => (
   <header className="row">
